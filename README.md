@@ -1,6 +1,6 @@
 # Blinkit-Insights-Power-BI-Dashboard
 
-Welcome to the Blinkit Insights Power BI project repository! 🚀
+#Welcome to the Blinkit Insights Power BI project repository! 🚀
 
 Project Summary
 Blink Commerce Private Limited, known as Blinkit (previously Grofers), is a fast-paced Indian quick-commerce company. This project presents an in-depth analysis of Blinkit’s sales data, customer feedback, and inventory allocation. The goal is to uncover actionable insights and improvement opportunities using key performance indicators (KPIs) and powerful visualizations within Power BI.
